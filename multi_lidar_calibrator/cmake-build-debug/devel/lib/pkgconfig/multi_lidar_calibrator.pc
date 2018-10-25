@@ -1,0 +1,8 @@
+prefix=/home/calmcar/workspace/driver_ws/src/multi_lidar_calibrator/cmake-build-debug/devel
+
+Name: multi_lidar_calibrator
+Description: Description of multi_lidar_calibrator
+Version: 1.8.0
+Cflags: 
+Libs: -L/home/calmcar/workspace/driver_ws/src/multi_lidar_calibrator/cmake-build-debug/devel/lib 
+Requires: std_msgs sensor_msgs geometry_msgs

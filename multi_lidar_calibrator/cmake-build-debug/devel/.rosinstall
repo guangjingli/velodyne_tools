@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/calmcar/workspace/driver_ws/src/multi_lidar_calibrator/cmake-build-debug/devel/setup.sh
