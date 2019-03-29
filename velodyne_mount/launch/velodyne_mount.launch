@@ -1,0 +1,8 @@
+<launch>
+
+    <node pkg="velodyne_mount" type="velodyne_mount_node" name="velodyne_mount_node" output="screen">
+        <param name="front_behind" value="10" />
+        <param name="left_right" value="10" />
+        <param name="grid" value="2" />
+    </node>
+</launch>
